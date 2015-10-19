@@ -18,7 +18,9 @@
     "lib": "./lib"
   },
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "bunyan": "^1.5.1"
+  },
   "devDependencies": {
     "coffee-script": ">=1.7.0",
     "cson": "^3.0.1",
